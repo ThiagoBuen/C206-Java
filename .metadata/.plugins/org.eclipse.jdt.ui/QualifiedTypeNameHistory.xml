@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Aula5Exercicio1.Produto"/>
+    <fullyQualifiedTypeName name="Aula5Exercicio1.Carrinho"/>
+    <fullyQualifiedTypeName name="Exercicio2.Empresa"/>
+    <fullyQualifiedTypeName name="Exercicio2.Contato"/>
+    <fullyQualifiedTypeName name="Aula5Exercicio3.Restaurante"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
