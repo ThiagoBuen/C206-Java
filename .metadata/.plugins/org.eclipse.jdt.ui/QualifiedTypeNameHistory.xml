@@ -5,5 +5,9 @@
     <fullyQualifiedTypeName name="Exercicio2.Empresa"/>
     <fullyQualifiedTypeName name="Exercicio2.Contato"/>
     <fullyQualifiedTypeName name="Aula5Exercicio3.Restaurante"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="StreamingVIdeo.Serie"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="sun.nio.cs.US_ASCII"/>
 </qualifiedTypeNameHistroy>
